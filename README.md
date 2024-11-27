@@ -35,6 +35,7 @@ To keep things simple, you can assume all words are lowercase.
 - JavaScript
 - Jest (for unit testing)
 - Node.js
+- Babel
 
 ## How to Run the Tests
 npm (Node Package Manager) and yarn are both package managers for JavaScript. I will be using npm however either will suffice.
