@@ -4,3 +4,5 @@ build/
 .env
 .deepsource.toml
 .babelrc
+test-results.json
+pretty-test-results.json
