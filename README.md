@@ -37,7 +37,11 @@ To keep things simple, you can assume all words are lowercase.
   - Conversion to Typescript in future project
 - Jest (for unit testing)
 - Node.js
+- Node.js CI
 - Babel
+- Git Bash
+- GitHub
+- Visual Studio Code
 
 ## How to Run the Tests
 npm (Node Package Manager) and yarn are both package managers for JavaScript. I will be using npm however either will suffice.
