@@ -63,3 +63,13 @@ To pretty print the test results, you can use the `prettyPrintJson.js` script. T
 
 1. Ensure you have run the tests and generated the `test-results.json` file.
 2. Execute the script by running:
+```Bash
+node prettyPrintJson.js
+```
+3. This will generate a Pretty-printed JSON file in the root directory.
+
+## Conclusion (Via Interview Cake)
+Binary search teaches us that when an array is sorted or mostly sorted:
+1. The value at a given index tells us a lot about what's to the left and what's to the right.
+2. We don't have to look at every item in the array. By inspecting the middle item, we can "rule out" half of the array.
+3. We can use this approach over and over, cutting the problem in half until we have the answer. This is sometimes called "divide and conquer."
